@@ -1,0 +1,11 @@
+.purchaseHistoryChild {
+  border: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  height: 5.39%;
+  width: 10.99%;
+  top: 14.95%;
+  right: 49.96%;
+  bottom: 79.66%;
+  left: 39.05%;
+}
